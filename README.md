@@ -10,14 +10,17 @@ This is my customization setup for Windows Terminal, tailored entirely to my pre
 
 ## Downloads (Windows):
 
-- Oh My Posh: <button type="button" onclick="navigator.clipboard.writeText('Install-Module oh-my-posh -Scope CurrentUser')">
-    Copy command
-</button>
+- Oh My Posh:
+```bash
+$ Install-Module oh-my-posh -Scope CurrentUser
+```
 
-- Posh-Git: <button type="button" onclick="navigator.clipboard.writeText('Install-Module posh-git -Scope CurrentUser')">
-    Copy command
-</button>
+- Posh-Git:
+```bash
+$ Install-Module posh-git -Scope CurrentUser
+```
 
-- Terminal Icons: <button type="button" onclick="navigator.clipboard.writeText('Install-Module -Name Terminal-Icons -Repository PSGallery -Scope CurrentUser')">
-    Copy command
-</button>
+- Terminal Icons:
+```bash
+$ Install-Module -Name Terminal-Icons -Repository PSGallery -Scope CurrentUser
+```
