@@ -8,7 +8,7 @@ This is my customization setup for Windows Terminal, tailored entirely to my pre
 - Posh Git
 - Terminal Icons
 
-## Downloads (Windows):
+## Module installations (Windows):
 
 - Oh My Posh:
 ```bash
